@@ -397,6 +397,7 @@ section {
   height: 50px;
   display: block;
   background: none;
+  padding-top:11px;
 }
 
 .skills .progress .skill {
